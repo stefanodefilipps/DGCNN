@@ -43,7 +43,7 @@ def main():
         optimizer=optimizer,
         device=device,
         num_epochs=100,
-        checkpoint_path="checkpoints/best_model_pointnet_airplanes.pt",
+        checkpoint_path="checkpoints/best_model_dgcnn_airplanes.pt",
         es_min_delta=0.0,
         es_patience=50
     )
