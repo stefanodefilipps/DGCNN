@@ -141,12 +141,3 @@ segmentation_models/
 
 * **DGCNN Paper**: [https://arxiv.org/abs/1801.07829](https://arxiv.org/abs/1801.07829)
 * EdgeConv concept introduced in this work
-
----
-
-If you'd like, I can also generate:
-
-* Architecture diagrams
-* Comparison table (PointNet vs PointNet++ vs DGCNN)
-* Example usage code
-* Visualization tools for graph edges / neighborhoods
